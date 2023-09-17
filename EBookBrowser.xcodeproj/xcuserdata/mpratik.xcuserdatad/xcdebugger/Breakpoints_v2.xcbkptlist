@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A0444042-341E-4DCB-BB4E-E29020B174CD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "14AD1229-983F-4C30-8978-58FE01C8271F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EBookBrowser/Networking/APIHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "makeAPICall()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "459ADF92-C39C-401E-82D3-8B8FAB543377"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EBookBrowser/Networking/APIHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "makeAPICall()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "43CC0C2B-59C1-4D37-8A25-860A5BADDBA1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EBookBrowser/Networking/APIHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "makeAPICall()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "43CC0C2B-59C1-4D37-8A25-860A5BADDBA1 - 207dec9b2a052910"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for EBookBrowser.APIHandler.makeAPICall() async -&gt; Swift.Result&lt;&#x3c4;_0_0, EBookBrowser.ResponseError&gt;"
+                  moduleName = "EBookBrowser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mpratik/Library/CloudStorage/OneDrive-athenahealth/Documents/XCode%20Projects/EBookBrowser/EBookBrowser/Networking/APIHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "752">
+               </Location>
+               <Location
+                  uuid = "43CC0C2B-59C1-4D37-8A25-860A5BADDBA1 - 3f39f2e6382a0bdf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for EBookBrowser.APIHandler.makeAPICall() async -&gt; Swift.Result&lt;&#x3c4;_0_0, EBookBrowser.ResponseError&gt;"
+                  moduleName = "EBookBrowser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mpratik/Library/CloudStorage/OneDrive-athenahealth/Documents/XCode%20Projects/EBookBrowser/EBookBrowser/Networking/APIHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "164">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1D691184-1045-45BA-9314-BFC16F4D1BB3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EBookBrowser/Networking/APIHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "makeAPICall()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

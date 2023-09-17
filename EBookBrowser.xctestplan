@@ -1,0 +1,37 @@
+{
+  "configurations" : [
+    {
+      "id" : "3E8166BD-4C62-4115-81C1-CAA91CA7054F",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:EBookBrowser.xcodeproj",
+      "identifier" : "0AEBD4F22AB570DB001264A4",
+      "name" : "EBookBrowser"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:EBookBrowser.xcodeproj",
+        "identifier" : "0AEBD5022AB570DD001264A4",
+        "name" : "EBookBrowserTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:EBookBrowser.xcodeproj",
+        "identifier" : "0AEBD50C2AB570DD001264A4",
+        "name" : "EBookBrowserUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
