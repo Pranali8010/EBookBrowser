@@ -41,11 +41,29 @@ struct BookListView: View {
                         }
                 }
             }
+            .overlay(content: {
+                ProgressView()
+                    .scaleEffect(CGSize(width: 2.0, height: 2.0))
+                    .hidden(shouldHide: viewModel.shouldHideProgressView)
+            })
             .navigationTitle("E Book browser")
         }
         .task {
             await viewModel.fetchBooks()
         }
         .preferredColorScheme(.dark)
+    }
+}
+
+extension View {
+    @ViewBuilder
+    func hidden(shouldHide: Bool) -> some View {
+        switch shouldHide {
+        case true:
+            self.hidden()
+            
+        case false:
+            self
+        }
     }
 }
