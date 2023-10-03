@@ -8,6 +8,7 @@ import Foundation
 final class BookListViewModel: ObservableObject {
     
     @Published var bookList: [Book] = []
+    @Published var shouldHideProgressView: Bool = false
      
     // MARK: - Private variables
     
@@ -53,6 +54,7 @@ final class BookListViewModel: ObservableObject {
     @MainActor
     private func loadBooks(books: [Book]) {
         bookList.append(contentsOf: books)
+        shouldHideProgressView = true
     }
 }
 
