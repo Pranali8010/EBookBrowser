@@ -6,7 +6,7 @@ A basic app to view the list of books provided by gutendex.com website.
 The list is displayed in a pagination fashion showing 32 book items for each pagination request. The next page is fetched once the list is scrolled to the last item of current page.
 ## Demo
 
-![EBookBrowser Demo](https://github.com/Pranali8010/EBookBrowser/assets/57432358/27aa2d58-fb53-4bdd-9fcc-eb6da8cbf8ac)
+![EBookBrowser gif](https://github.com/Pranali8010/EBookBrowser/assets/57432358/ed6d074e-19c4-40ce-8791-2af03b0ce931)
 ## Getting Started
 
 1. Download and install Xcode. EBookBrowser for iOS requires Xcode 13.2 or newer
